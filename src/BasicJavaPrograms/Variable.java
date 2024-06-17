@@ -2,6 +2,9 @@ package BasicJavaPrograms;
 
 public class Variable {
 	public static void main(String[] args) {
+		
+		StaticMethodCall.method2();              // call method 2 from different class
+		
 
 	    int a;    // Variable declaration 
 	    
