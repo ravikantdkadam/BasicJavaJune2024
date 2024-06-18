@@ -19,11 +19,18 @@ public class Variable2 {
 		System.out.println(fullname);   // addition two string variable 
 		
 		
-	
-		
 
 		
 	}
+	
+	
+	
+	public void nregular2() {
+		
+		System.out.println("This is an non static regular method 2");
+		
+	}
+	
 
 }
 
