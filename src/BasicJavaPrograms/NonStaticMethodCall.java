@@ -7,6 +7,7 @@ public class NonStaticMethodCall {
 			
 		System.out.println("This is main Method");
 		
+	
 		
 		NonStaticMethodCall n1=new NonStaticMethodCall();                // object creation of same class
 		
@@ -30,5 +31,6 @@ public class NonStaticMethodCall {
 	}
 	
 	
+
 
 }

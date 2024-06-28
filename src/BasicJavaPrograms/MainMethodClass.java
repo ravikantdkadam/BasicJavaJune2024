@@ -20,9 +20,6 @@ public class MainMethodClass {
 		System.out.println(sum);
 
 
-		
-		
-		
 
 	}
 	
