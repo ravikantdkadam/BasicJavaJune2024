@@ -1,4 +1,4 @@
-package BasicJavaPrograms;
+package OopsConcepts;
 
 public class Polymorphisam {
 	
