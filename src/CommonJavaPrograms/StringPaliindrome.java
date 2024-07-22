@@ -1,4 +1,4 @@
-package BasicJavaPrograms;
+package CommonJavaPrograms;
 
 public class StringPaliindrome {
 

@@ -152,8 +152,9 @@ public class ArraysConcept {
 			  for(int col=0; col<a[row].length; col++) {             //0    1   2  
 				  
 				  System.out.print(a[row][col]+"  ");
-			  }
+			  }                                              // inner loop always run first 
 			  
+			 
 			  
 			  System.out.println();
 			  
@@ -177,14 +178,6 @@ public class ArraysConcept {
 				 }
 			 }
 			 
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
 		  
 
 	}}
