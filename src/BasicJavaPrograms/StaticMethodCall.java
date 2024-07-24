@@ -1,5 +1,7 @@
 package BasicJavaPrograms;
 
+import CommonJavaPrograms.DuplicateCharinString;
+
 public class StaticMethodCall {
 
 	public static void main(String[] args) {
@@ -11,7 +13,7 @@ public class StaticMethodCall {
 		
 		method2();									// call static regular method 2
 		
-		DuplicateElement.regular2();            // call the static regular method from different class
+		DuplicateCharinString.regular2();            // call the static regular method from different class
 		
 		
 		// call static regular method by the method name only because regular methods and main method are in same class====>methodname();
