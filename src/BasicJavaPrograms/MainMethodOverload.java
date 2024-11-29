@@ -16,7 +16,7 @@ public class MainMethodOverload {
 
 	}
 	
-	public static void main(double args) {              // main method with different arguments
+	public static void main(double args) {             // main method with different arguments
 		
 		System.out.println("This is main method with one parameter and different datatype");
 

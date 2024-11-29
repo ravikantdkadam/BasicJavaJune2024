@@ -2,7 +2,9 @@ package ArraysAndCollections;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.Iterator;
+import java.util.List;
 
 public class ArraListDemo {
 
@@ -34,7 +36,7 @@ public class ArraListDemo {
 		ar.add(null);  // null 
 		
 		System.out.println(ar);   // [10, Vishwatech, 98.52, M, 98.52, null]
-		
+	
 		
 		// Add element at beginning , at middle of list or at end of list 
 		

@@ -15,12 +15,12 @@ int t=num ;   // original number
  
 while(num>0){
  
-	r=num%10;              //3    // modulus for reminder
- 
-	 num=num/10;           //15   // division for dividends 
+	r=num%10;              //3 5   1// modulus for reminder
+	
+	 num=num/10;           //15  1  0   // division for dividends 
 	 
 	 
-  cube=cube+(r*r*r);
+  cube=cube+(r*r*r);     //27  152   153
 }
 
 

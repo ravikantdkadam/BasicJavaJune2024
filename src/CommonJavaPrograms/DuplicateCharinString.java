@@ -1,7 +1,5 @@
 package CommonJavaPrograms;
 
-
-
 public class DuplicateCharinString {
 
 	public static void main(String[] args) {
@@ -11,9 +9,9 @@ public class DuplicateCharinString {
         
         char inp[]= name.toCharArray();
         
-    for(int i=0; i<name.length(); i++){
+    for(int i=0; i<inp.length; i++){
     	
-    	for (int j=i+1; j<name.length();j++) 
+    	for (int j=i+1; j<inp.length;j++) 
     	{
     		
     		if(inp[i]==inp[j]) {
