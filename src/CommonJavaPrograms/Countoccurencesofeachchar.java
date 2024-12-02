@@ -9,6 +9,8 @@ public class Countoccurencesofeachchar {
 		
 		String s= "INDIA IS MY COUNTRY";
 		
+	
+		
 		char arr[]= s.toCharArray();
 		
 		
